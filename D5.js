@@ -219,3 +219,6 @@ for (i = 0; i < charactersArray.length; i++) {
   }
 }
 console.log(charactersIndex);
+
+const a = [1, 2, 3];
+console.log(a[6]);
